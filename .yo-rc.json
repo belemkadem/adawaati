@@ -1,0 +1,37 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.belem.adawaati",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "adawaati",
+        "packageName": "com.belem.adawaati",
+        "packageFolder": "com/belem/adawaati",
+        "serverPort": "8080",
+        "authenticationType": "session",
+        "cacheProvider": "no",
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "mysql",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "rememberMeKey": "b1c9115f48ea08a8aa2cb7c00db4db600ae5004aa10b18cc19819adf93c69bb3832b02613cc7f4ce9c435ceda1180923a1c3",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en", "ar-ly"]
+    }
+}
